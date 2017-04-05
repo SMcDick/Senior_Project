@@ -4,7 +4,7 @@ My product is a computer program capable of scraping Amazon's textbook catalog a
 
 My project is split into 4 folders, each consisting of different types of programs:
 
-  - ArbitrageFinder
+  - AmazonTextbookArbitrage
   - TextBookAPI
   - RedditBot
   - TradeInPrediction
