@@ -1,4 +1,4 @@
-# Amazon Textbook Arbitrage
+# Amazon Textbook Arbitrage - Senior Project
 
 My product is a computer program capable of scraping Amazon's textbook catalog and pulling various points of data from the pages collected.
 
@@ -9,8 +9,12 @@ My project is split into 4 folders, each consisting of different types of progra
   - RedditBot
   - TradeInPrediction
 
-# Arbitrage Finder
-This is my "Product" for Senior Project
+# Amazon Textbook Arbitrage
+
+Please view the "HeavilyCommented.py" file for all the information about this program.  This is the main file I have been working on.
+
+The Arbitrage Program: 
+
   - Generates Amazon URLs
   - Grabs the website and saves it to the /HTML/ Folder
   - Open up the HTML documents and grabs various points of data
