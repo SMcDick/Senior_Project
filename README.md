@@ -13,7 +13,7 @@ My project is split into 4 folders, each consisting of different types of progra
 
 Please view the "HeavilyCommented.py" file for all the information about this program.  This is the main file I have been working on.
 
-The Arbitrage Program: 
+The Arbitrage Program:
 
   - Generates Amazon URLs
   - Grabs the website and saves it to the /HTML/ Folder
@@ -42,22 +42,6 @@ This is basically a single use version version of the Arbitrage Finder program. 
 >>> 	ListOfASIN.append(ASIN)
 >>> Results = TextbookAPI.Biblio(ListOfASIN, CSV='Biblio.csv', Debug=0)
 ```
-
-## Reddit Bot
-
-This is a program I created to market the site, but the use cases for this program are virtually endless.  This uses the Selenium module to automate browsing activities, but it's able to imitate regular browsers (Chrome, Safari, Firefox, etc) using the same method I use in the Arbitrage Finder program.  This program has the following features:
-
-- Create Reddit Accounts
-- Generate new Username/Passwords
-- Refresh IP address using a 4G Android Phone & Hotspot
-- Detect Reposting Posts on Reddit
-- Generate Reddit Comments
-- Post Reddit Comments
-- Create Hotmail Accounts
-- Verify Reddit Accounts
-- "Break" Captcha
-- Upvote/Downvote randomly
-- Targeted Upvotes/Downvotes
 
 # Trade-In Prediction
 
